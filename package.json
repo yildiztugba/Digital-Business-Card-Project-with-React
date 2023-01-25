@@ -1,0 +1,19 @@
+{
+  "name": "digital-business-card-project-with-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yildiztugba/Digital-Business-Card-Project-with-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yildiztugba/Digital-Business-Card-Project-with-React/issues"
+  },
+  "homepage": "https://github.com/yildiztugba/Digital-Business-Card-Project-with-React#readme"
+}
