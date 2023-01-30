@@ -7,8 +7,8 @@ export default function Navbar() {
         <nav>
       <div><img src="../images/icon.png" alt="tugba" width="40px" /></div>
       <h1>Tugba Yildiz</h1>
-      <h2>Fronted Developer</h2>
-      <h3>okra.yildiz@gmail.com</h3>
+      <h3>Fronted Developer</h3>
+      <h4>okra.yildiz@gmail.com</h4>
       <button>Email</button>
       <button>Linkedln</button>
       
