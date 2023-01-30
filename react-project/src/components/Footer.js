@@ -3,8 +3,10 @@ import ReactDOM from "react-dom"
 
 
 export default function Footer() {
-    return (
-       <h1>Here is Footer</h1>
+    return ( <footer>
+   <p>copyrights</p>
+    </footer>
+       
     )
 }
 

@@ -90,3 +90,9 @@ color: #4A4E74;
 .about_part{
   padding: 20px 50px 5px 50px;
 }
+footer{
+padding: 4px 4px 4px 50%;
+background: #D5D4D8;
+border-radius: 0px 0px 10px 10px;
+height: 20px;
+}
