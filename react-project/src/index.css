@@ -11,7 +11,7 @@ code {
 	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
 .container {
-	width: 50%;
+	width: 300px;
 	text-align: center;
   	background-color: #F5F5F5
 }
@@ -29,7 +29,7 @@ font-style: normal;
 font-weight: 700;
 font-size: 16px;
 line-height: 150%;
-margin-left: -80%;
+margin-left: -70%;
 color: #2B283A;
 }
 h3{
